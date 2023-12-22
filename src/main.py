@@ -47,6 +47,8 @@ args.cuda = not args.no_cuda and torch.cuda.is_available()
 
 data_sets = args.dataset
 random_seed = 1  # fixed
+if data_sets == 'AD_amazon_electronics_photo':
+    random_seed = 3
 lr = args.lr
 weight_decay = args.weight_decay
 root_path = args.root_path
