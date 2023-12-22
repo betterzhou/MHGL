@@ -1,6 +1,6 @@
 # Unseen Anomaly Detection on Networks via Multi-Hypersphere Learning (MHGL, SDM 2022)
 
-## 1.Introduction
+## 1. Introduction
 This repository contains code for the paper "[Unseen Anomaly Detection on Networks via Multi-Hypersphere Learning](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.30)" (SDM 2022).
 
 ## 2. Usage
